@@ -132,3 +132,9 @@ Instagram : - @vinayakpriyavinesh
 ## 📝 License
 
 This project is licensed under the [MIT License](LICENSE.md). Feel free to use, modify, and distribute this project as per the license terms.
+
+---
+
+![Python](https://img.shields.io/badge/python-3.9-blue)
+![MySQL](https://img.shields.io/badge/MySQL-8.0-orange)
+![License](https://img.shields.io/badge/license-MIT-green)
