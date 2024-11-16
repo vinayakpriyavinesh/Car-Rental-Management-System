@@ -135,6 +135,16 @@ This project is licensed under the [MIT License](LICENSE.md). Feel free to use, 
 
 ---
 
+## 📚 Credits
+
+- **Pillow**: For handling and displaying images.  
+- **MySQL**: For database management.  
+- **Tkinter**: For GUI design.  
+- Icons from [Flaticon](https://www.flaticon.com).  
+- Tutorials and inspiration from [Real Python](https://realpython.com) and [MySQL Tutorial](https://www.mysqltutorial.org).
+
+---
+
 ![Python](https://img.shields.io/badge/python-3.9-blue)
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-orange)
 ![License](https://img.shields.io/badge/license-MIT-green)
