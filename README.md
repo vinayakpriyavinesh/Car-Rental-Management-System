@@ -109,9 +109,13 @@ luxury-car-showroom/
 └── requirements.txt             # Python dependencies
 ```
 
+---
+
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to fork this repository and submit a pull request.
+
+---
 
 ## 📧 Contact
 For questions or suggestions, reach out to Vinayak Priya Vinesh:
@@ -120,3 +124,9 @@ Mail      : - vinayakpriyavinesh2008@gmail.com
 Phone     : - +971507523475
 Instagram : - @vinayakpriyavinesh
             - @vinnih_pooh
+
+---
+
+## 📝 License
+
+This project is licensed under the [MIT License](LICENSE.md). Feel free to use, modify, and distribute this project as per the license terms.
