@@ -138,3 +138,10 @@ This project is licensed under the [MIT License](LICENSE.md). Feel free to use, 
 ![Python](https://img.shields.io/badge/python-3.9-blue)
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-orange)
 ![License](https://img.shields.io/badge/license-MIT-green)
+![Python Version](https://img.shields.io/badge/Python-3.10-blue)  
+![MySQL Version](https://img.shields.io/badge/MySQL-8.0-orange)  
+![License](https://img.shields.io/badge/License-MIT-green)  
+![Project Status](https://img.shields.io/badge/Status-Complete-brightgreen)  
+![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen)  
+![Last Commit](https://img.shields.io/github/last-commit/vinayakpriyavinesh/Car-Rental-Management-System)
+
