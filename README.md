@@ -66,6 +66,8 @@ The system provides an immersive experience for customers and simplifies operati
    ```bash
    LUXURY CAR SHOWROOM.py
    ```
+6. NOTE:
+   - If you are not cloning the repository, ensure that the Car Rental file is saved in the directory `D:/CS Project`. Failure to do so may result in issues with loading images and the background when executing the program.
 
 ---
 
