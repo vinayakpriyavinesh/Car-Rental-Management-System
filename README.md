@@ -121,7 +121,7 @@ Contributions are welcome! Feel free to fork this repository and submit a pull r
 
 ## 📧 Contact
 For questions or suggestions, reach out to Vinayak Priya Vinesh:
-- **Mail**  : 1) vinayakpriyavinesh2008@gmail.com , 2)vinayakpriyavinesh@gmail.com
+- **Mail**  : 1) vinayakpriyavinesh2008@gmail.com , 2) vinayakpriyavinesh@gmail.com
 - **Phone**     : +971507523475
 - **Instagram** : 1) @vinayakpriyavinesh , 2) @vinnih_pooh
 
